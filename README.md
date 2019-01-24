@@ -1,4 +1,5 @@
 # flask-sass
+[![Build Status](https://travis-ci.org/LoganHenderson/flask-sass.svg?branch=master)](https://travis-ci.org/LoganHenderson/flask-sass)
 Dumb simple package to compile sass files whenever they are edited in your flask app. This was thrown together for my own project when none of the current open source plug ins worked for me. 
 
 ### Benefits compared to the similar packages on the internet
