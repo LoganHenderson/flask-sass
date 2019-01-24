@@ -9,6 +9,7 @@ OUTPUT_CSS_FILE_PATH = '/app/app/static/main.css'
 SASS_PATH = '/usr/local/bin/sass'
 
 
+
 def _timestamp_to_date(timestamp):
     return datetime.datetime.utcfromtimestamp(timestamp)
 
